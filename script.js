@@ -1,5 +1,5 @@
 const texts = [
-  "c# Developer",
+  "C# Developer",
   ".net Developer",
   "Azure Developer",
 ];
