@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/senzhang.github.io/static/css/main.7641304e.css",
+    "main.js": "/senzhang.github.io/static/js/main.5d53833b.js",
+    "static/js/453.a987d799.chunk.js": "/senzhang.github.io/static/js/453.a987d799.chunk.js",
+    "index.html": "/senzhang.github.io/index.html",
+    "main.7641304e.css.map": "/senzhang.github.io/static/css/main.7641304e.css.map",
+    "main.5d53833b.js.map": "/senzhang.github.io/static/js/main.5d53833b.js.map",
+    "453.a987d799.chunk.js.map": "/senzhang.github.io/static/js/453.a987d799.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7641304e.css",
+    "static/js/main.5d53833b.js"
+  ]
+}
