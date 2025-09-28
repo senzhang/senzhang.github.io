@@ -1,7 +1,5 @@
 const texts = [
-  "C# Developer",
-  ".net Developer",
-  "Azure Developer",
+  "I'm Sen. Certified Azure Developer (AZ-204) with a strong passion for .NET and C#."
 ];
 let count = 0;
 let index = 0;
